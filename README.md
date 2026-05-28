@@ -91,8 +91,9 @@ Moving Quality Engineering from:
   to
 * Autonomous Quality Intelligence
 
-* ## AI Research & Innovation
+## 🧪 ShinuAI Labs
 
-I also maintain ShinuAI Labs — an experimental and educational AI innovation workspace focused on autonomous systems, AI workflows, and agentic engineering research.
+I also maintain ShinuAI Labs — an AI innovation and experimentation ecosystem focused on autonomous systems, browser AI, multi-agent workflows, and AI-augmented engineering research.
 
-https://github.com/shinuailabs
+🔗 https://github.com/shinuailabs
+
