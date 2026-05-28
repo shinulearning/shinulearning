@@ -90,3 +90,9 @@ Moving Quality Engineering from:
 * Test Automation
   to
 * Autonomous Quality Intelligence
+
+* ## AI Research & Innovation
+
+I also maintain ShinuAI Labs — an experimental and educational AI innovation workspace focused on autonomous systems, AI workflows, and agentic engineering research.
+
+https://github.com/shinuailabs
